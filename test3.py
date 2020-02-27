@@ -57,7 +57,7 @@ def bootstrap():
                   </head>
                   <body>
                     <h1>Привет, Яндекс!</h1>
-                    <div class="alert alert-primary" role="alert">
+                    <div class="alert alert-success" role="alert">
                       А мы тут компонентами Bootstrap балуемся
                     </div>
                   </body>

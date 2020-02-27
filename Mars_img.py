@@ -33,6 +33,7 @@ def mars_image():
                         <body>
                         <h1>Жди нас, Марс!</h1>   
                         <img src= "{url_for("static", filename='img/MARS.png')}">
+                        <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style_1.css')}" />
                         <h2>Вот она какая, красная планета.</h2>
                       </head>
                       </body>
