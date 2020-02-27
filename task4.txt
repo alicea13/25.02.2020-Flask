@@ -1,0 +1,3 @@
+https://github.com/alicea13/25.02.2020-Flask.git
+# решение - promote_img.py
+# static/css/style.css
